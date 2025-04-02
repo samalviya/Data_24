@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">0.761010472503118</SimpleData>
+		<SimpleData name="site_id">240231_1.1</SimpleData>
+		<SimpleData name="Land_parc">240231</SimpleData>
+		<SimpleData name="district">Damoh</SimpleData>
+		<SimpleData name="block">Tendukheda</SimpleData>
+		<SimpleData name="village">Dinari</SimpleData>
+		<SimpleData name="Land Type">Farmer</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.5040880011127,23.6120873873006,0 79.5043151744683,23.6120552044086,0 79.5042773122423,23.6118942899484,0 79.5043303193586,23.6118166723852,0 79.5045882557727,23.6119070684496,0 79.5046317973326,23.6119174805618,0 79.5046743923367,23.611838916443,0 79.5047529564555,23.6117063986522,0 79.5049091381374,23.6115435910808,0 79.5049375348069,23.6113675317302,0 79.5049252295835,23.6112785554993,0 79.504964038365,23.6111678084885,0 79.5047321322313,23.6110930305923,0 79.5045011726531,23.6110551683664,0 79.5043800135302,23.6109756576919,0 79.5042834648541,23.6111327859295,0 79.5042744725754,23.6111498239312,0 79.504192122234,23.6113717912306,0 79.5039786739354,23.6113883559545,0 79.503955483322,23.6118412828321,0 79.5039952386592,23.6119056486162,0 79.5041012528918,23.6118905037258,0 79.5041031460031,23.6119624419551,0 79.5040596044433,23.6119870524019,0 79.5040880011127,23.6120873873006,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
