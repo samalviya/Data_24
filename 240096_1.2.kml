@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">0.688967511014408</SimpleData>
+		<SimpleData name="site_id">240096_1.2</SimpleData>
+		<SimpleData name="Land_parc">240096</SimpleData>
+		<SimpleData name="district">Damoh</SimpleData>
+		<SimpleData name="block">Tendukheda</SimpleData>
+		<SimpleData name="village">Keolari</SimpleData>
+		<SimpleData name="Land Type">Private land</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.3645529,23.3516558,0 79.3646111,23.3518376,0 79.3646708,23.3520446,0 79.3648964,23.3520527,0 79.364939,23.3520548,0 79.3652073,23.3520221,0 79.3654741,23.3520425,0 79.3656759,23.3520122,0 79.3657662,23.3520243,0 79.3657461,23.3521673,0 79.365905,23.352174,0 79.3660176,23.3521665,0 79.3662014,23.3521825,0 79.366249,23.3521177,0 79.366257,23.3520302,0 79.3662773,23.3518748,0 79.3659435,23.3517992,0 79.3657786,23.3518037,0 79.365794,23.3516843,0 79.3654874,23.3516978,0 79.3652621,23.3516886,0 79.3649455,23.3516028,0 79.3647832,23.3516075,0 79.3645447,23.3516929,0 79.3645529,23.3516558,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
