@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">2.849684778475715</SimpleData>
+		<SimpleData name="site_id">240255_2.2</SimpleData>
+		<SimpleData name="Land_parc">240255</SimpleData>
+		<SimpleData name="district">Katni</SimpleData>
+		<SimpleData name="block">Barwara</SimpleData>
+		<SimpleData name="village">Pathara</SimpleData>
+		<SimpleData name="Land Type">Community</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>80.4957448,23.8080734,0 80.4957563,23.8080248,0 80.4957467359421,23.8079505590846,0 80.4957605985969,23.807618264225,0 80.4957113861722,23.8071699184771,0 80.4956212789157,23.8067887916666,0 80.4955817703494,23.806389273177,0 80.4951658907039,23.8062522951262,0 80.4949995388458,23.8061508298102,0 80.4946224746339,23.8061127802963,0 80.4944783030235,23.8065668371019,0 80.4944026,23.8067602,0 80.4943429,23.807041,0 80.4942675906698,23.8072117726011,0 80.4942117,23.8074915,0 80.4941487,23.8078497,0 80.4940513332542,23.808073584065,0 80.4940735135019,23.8081293891724,0 80.4945559338907,23.8080989500259,0 80.4949662684741,23.8080888036421,0 80.4953821481196,23.8080786572576,0 80.4956725707386,23.8080723157668,0 80.4957448,23.8080734,0</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>80.4946994556891,23.8064337830854,0 80.4947088129812,23.8062839633863,0 80.494857359992,23.8062861036689,0 80.494843324054,23.8064337830854,0 80.4946994556891,23.8064337830854,0</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>80.49441990659,23.8073059443308,0 80.4944448593687,23.8071889430806,0 80.4946179692711,23.8072017846864,0 80.4946101715278,23.8073145053937,0 80.49441990659,23.8073059443308,0</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
