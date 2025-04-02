@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">4.782671870269674</SimpleData>
+		<SimpleData name="site_id">240175_1.1</SimpleData>
+		<SimpleData name="Land_parc">240175</SimpleData>
+		<SimpleData name="district">Niwari</SimpleData>
+		<SimpleData name="block">Niwari</SimpleData>
+		<SimpleData name="village">Puchhi karguwa</SimpleData>
+		<SimpleData name="Land Type">Community</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.8214325,25.4482377,0 78.8214462,25.4482575,0 78.8209472,25.4480232,0 78.8207551,25.4476368,0 78.8204102,25.4473124,0 78.8199114,25.4467811,0 78.8197093,25.4464196,0 78.818183,25.445455,0 78.8181115,25.445253,0 78.8179195,25.44524,0 78.8178893,25.4452324,0 78.8178639,25.4452291,0 78.817656,25.4450755,0 78.8172543,25.4450197,0 78.8171769,25.4450169,0 78.8171509,25.4452567,0 78.8173821,25.4453143,0 78.81744,25.4453543,0 78.8181117,25.4463915,0 78.818703,25.4468373,0 78.8190245,25.4472209,0 78.8196584,25.4478593,0 78.8199016,25.4483234,0 78.8208582,25.4488171,0 78.8211242,25.4486646,0 78.8214959,25.4482365,0 78.8214325,25.4482377,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
