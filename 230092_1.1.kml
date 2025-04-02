@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave23_v27MAR2025">
+		<SimpleData name="area(ha)">0.321011409950227</SimpleData>
+		<SimpleData name="site_id">230092_1.1</SimpleData>
+		<SimpleData name="Land_parc">230092</SimpleData>
+		<SimpleData name="district">Damoh</SimpleData>
+		<SimpleData name="block">Hatta</SimpleData>
+		<SimpleData name="village">Surajpura</SimpleData>
+		<SimpleData name="Land Type">Farmer</SimpleData>
+		<SimpleData name="Instance">Wave 2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.4880606,24.3837401,0 79.4882329,24.3837826,0 79.4882902574124,24.3837899967851,0 79.4883655,24.3837997,0 79.4885068,24.3837971,0 79.4885003,24.3838011,0 79.4885595,24.3838167,0 79.4885714,24.3838162,0 79.4887096,24.3837462,0 79.4887656,24.3837131,0 79.4887588,24.3835854,0 79.4887126,24.3835256,0 79.4886095,24.3834925,0 79.4885055,24.3834375,0 79.4884916566629,24.3834351927795,0 79.4884419,24.3834269,0 79.4883812,24.3834095,0 79.4883171,24.3833994,0 79.4882512,24.3834046,0 79.4881776,24.3834013,0 79.488101,24.3833702,0 79.4880077,24.383356,0 79.4879443,24.3834001,0 79.4879495196699,24.3834831253809,0 79.4879507,24.3835019,0 79.4879406,24.3835571,0 79.4879091,24.3836775,0 79.4879361,24.3837276,0 79.4879991,24.3837401,0 79.4880606,24.3837401,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
