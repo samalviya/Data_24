@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">0.000324130061379</SimpleData>
+		<SimpleData name="site_id">240099_1.1</SimpleData>
+		<SimpleData name="Land_parc">240099</SimpleData>
+		<SimpleData name="district">Damoh</SimpleData>
+		<SimpleData name="block">Damoh</SimpleData>
+		<SimpleData name="village">Riyana</SimpleData>
+		<SimpleData name="Land Type">Community</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.5798827,23.7840917,0 79.5798571,23.7840973,0 79.5798556,23.784097,0 79.5798579871291,23.7841183176179,0 79.5798827,23.7840917,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
