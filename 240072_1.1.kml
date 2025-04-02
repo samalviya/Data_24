@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">3.572915744393738</SimpleData>
+		<SimpleData name="site_id">240072_1.1</SimpleData>
+		<SimpleData name="Land_parc">240072</SimpleData>
+		<SimpleData name="district">Chhatarpur</SimpleData>
+		<SimpleData name="block">Bijawar</SimpleData>
+		<SimpleData name="village">Gulat</SimpleData>
+		<SimpleData name="Land Type">Farmer</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.4678934701588,24.5710359211121,0 79.4677777642838,24.5711428868836,0 79.4678025122768,24.5714135552585,0 79.4676395,24.571738,0 79.4675746195054,24.5719168111541,0 79.46757,24.572049,0 79.4677328,24.5722536,0 79.4678763,24.57228,0 79.4679017,24.5722733,0 79.4682367,24.5721699,0 79.4683948,24.5721456,0 79.4691124,24.5719068,0 79.4698489,24.5718007,0 79.4701149,24.5717446,0 79.4701423,24.5715386,0 79.4701431,24.5713241,0 79.4703251590326,24.571019873149,0 79.4703321889815,24.5709657446064,0 79.470307876212,24.5709212052936,0 79.4702344292638,24.5709344464966,0 79.4701108139303,24.5709331910645,0 79.4700423504251,24.5707984528772,0 79.4700456,24.5705562,0 79.4698765,24.5702591,0 79.4695396339928,24.5704238541246,0 79.469160180233,24.5706041615465,0 79.4688617,24.5708393,0 79.468766,24.5709721,0 79.4684788,24.5709686,0 79.4684185,24.5707851,0 79.4680159,24.5708189,0 79.4678934701588,24.5710359211121,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
