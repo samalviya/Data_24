@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">23.399350392324479</SimpleData>
+		<SimpleData name="site_id">240200_1.1</SimpleData>
+		<SimpleData name="Land_parc">240200</SimpleData>
+		<SimpleData name="district">Chhatarpur</SimpleData>
+		<SimpleData name="block">Rajnagar</SimpleData>
+		<SimpleData name="village">Majhguwan</SimpleData>
+		<SimpleData name="Land Type">Community</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.8492568,24.7444315,0 79.849237,24.744422,0 79.8505572,24.7464292,0 79.8508579,24.7468573,0 79.8526142,24.7492409,0 79.8537091,24.7498901,0 79.8545598,24.7513514,0 79.8551956,24.7520552,0 79.8554796,24.7521129,0 79.855868,24.7515185,0 79.8562995,24.7510986,0 79.8558333,24.7505617,0 79.8547237,24.7486357,0 79.8545433,24.747795,0 79.85449,24.74707,0 79.8534086,24.7464852,0 79.853445,24.74637,0 79.8522691,24.7453602,0 79.8519445,24.7445599,0 79.8527939,24.7439371,0 79.852664,24.7432442,0 79.8517767,24.7427703,0 79.8504178,24.7438167,0 79.8492568,24.7444315,0</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>79.8511589211135,24.7467443397598,0 79.8509780118652,24.7464561114658,0 79.8514356509383,24.7461962460624,0 79.8516372574312,24.7464530452073,0 79.8511589211135,24.7467443397598,0</coordinates></LinearRing></innerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>79.8539890776598,24.7490195035272,0 79.8538878911311,24.7488692568633,0 79.8540105414689,24.7488033323067,0 79.8541239930315,24.7489535789706,0 79.8539890776598,24.7490195035272,0</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
