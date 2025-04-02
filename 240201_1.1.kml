@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">3.350779606357217</SimpleData>
+		<SimpleData name="site_id">240201_1.1</SimpleData>
+		<SimpleData name="Land_parc">240201</SimpleData>
+		<SimpleData name="district">Niwari</SimpleData>
+		<SimpleData name="block">Niwari</SimpleData>
+		<SimpleData name="village">Kishorpura</SimpleData>
+		<SimpleData name="Land Type">Community</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.8563658,25.4284583,0 78.856592699116,25.4288288457488,0 78.8570010241868,25.4304533997398,0 78.8578066385156,25.4318188054793,0 78.85827014265,25.4314998799762,0 78.8577639,25.4294468,0 78.8569667,25.4280936,0 78.8563658,25.4284583,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
