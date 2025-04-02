@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">1.154477131242643</SimpleData>
+		<SimpleData name="site_id">240102_1.1</SimpleData>
+		<SimpleData name="Land_parc">240102</SimpleData>
+		<SimpleData name="district">Chhatarpur</SimpleData>
+		<SimpleData name="block">Bijawar</SimpleData>
+		<SimpleData name="village">Mednipura</SimpleData>
+		<SimpleData name="Land Type">Farmer</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.4771297,24.5593438,0 79.4772688172232,24.5593489911518,0 79.477510419823,24.5593181000052,0 79.4779079305984,24.5594053049702,0 79.478300315724,24.5594403614799,0 79.4786843050951,24.5594029699361,0 79.4789174,24.5593612,0 79.4789254,24.5591604,0 79.47893,24.5587967,0 79.4788953582982,24.5586678181545,0 79.4787617827731,24.5586632952241,0 79.4784983,24.5587167,0 79.4782873713686,24.558715646572,0 79.4782105990761,24.558749791,0 79.4781338267438,24.5587839353867,0 79.4778529469527,24.5587620512937,0 79.4777537696627,24.5587832710843,0 79.4777069563734,24.558779623654,0 79.4776387068131,24.5588265519939,0 79.4772112,24.5590631,0 79.477222991066,24.5591199626968,0 79.4772620390445,24.5591917839693,0 79.4772666312776,24.5592426226783,0 79.4771283,24.5593173,0 79.4771297,24.5593438,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
