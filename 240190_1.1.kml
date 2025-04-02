@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">34.330064866981843</SimpleData>
+		<SimpleData name="site_id">240190_1.1</SimpleData>
+		<SimpleData name="Land_parc">240190</SimpleData>
+		<SimpleData name="district">Chhatarpur</SimpleData>
+		<SimpleData name="block">Rajnagar</SimpleData>
+		<SimpleData name="village">??????</SimpleData>
+		<SimpleData name="Land Type">Community land</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.8462445,24.9969131,0 79.8467556,24.9969113,0 79.8467865,24.9969444,0 79.8467323,24.9965817,0 79.8466133,24.99595,0 79.8465226,24.9944958,0 79.8463648,24.9939741,0 79.8459438,24.9939661,0 79.845605,24.99401,0 79.844001,24.9920187,0 79.8437281,24.9914876,0 79.8430367,24.9916083,0 79.8415615,24.9913323,0 79.8412447,24.9914103,0 79.8404832,24.9919155,0 79.8395145,24.9923871,0 79.8392929,24.992374,0 79.8382575,24.9923523,0 79.8377665,24.9921594,0 79.8373065,24.9922364,0 79.8369477,24.9923275,0 79.8365641,24.9926621,0 79.8368323,24.9930202,0 79.8374723,24.9938046,0 79.8379691,24.9940217,0 79.8398184,24.9943368,0 79.8407034,24.9947514,0 79.8419389,24.9953518,0 79.8433933,24.9966571,0 79.8448582,24.9971213,0 79.8462445,24.9969131,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
