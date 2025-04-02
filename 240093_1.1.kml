@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">0.532137256715621</SimpleData>
+		<SimpleData name="site_id">240093_1.1</SimpleData>
+		<SimpleData name="Land_parc">240093</SimpleData>
+		<SimpleData name="district">Chhatarpur</SimpleData>
+		<SimpleData name="block">Nowgong</SimpleData>
+		<SimpleData name="village">Sahaniya</SimpleData>
+		<SimpleData name="Land Type">Farmer</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.5051047,25.0139637,0 79.5052794,25.013938,0 79.505412,25.0138892,0 79.5054778,25.0138383,0 79.505542,25.013791,0 79.5055930693341,25.0137710307883,0 79.5054271986907,25.0136630219973,0 79.5054638445305,25.0135704430335,0 79.5055502,25.0135147,0 79.5055136,25.0134549,0 79.5054839,25.0133708,0 79.5054352,25.0132878,0 79.5053212,25.0132396,0 79.5051879,25.0132414,0 79.5050994,25.013269,0 79.505029,25.0132672,0 79.5048393,25.0132548,0 79.5046876,25.0132427,0 79.5045923,25.0133461,0 79.5046807807955,25.0134277171311,0 79.5047637161172,25.0135530844778,0 79.5047733597592,25.0135993739597,0 79.5048283285189,25.0136642274525,0 79.5048543663525,25.0136449401684,0 79.5049151212974,25.0137220893049,0 79.5048746180008,25.0137596995089,0 79.5048765467292,25.0137867017067,0 79.5049257293037,25.0138358842812,0 79.5049700900572,25.0139108635982,0 79.505001914076,25.0139513668948,0 79.5050231300885,25.0139947632841,0 79.5051047,25.0139637,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
