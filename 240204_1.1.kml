@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">0.297613738591166</SimpleData>
+		<SimpleData name="site_id">240204_1.1</SimpleData>
+		<SimpleData name="Land_parc">240204</SimpleData>
+		<SimpleData name="district">Chhatarpur</SimpleData>
+		<SimpleData name="block">Nowgong</SimpleData>
+		<SimpleData name="village">Jagat sagar</SimpleData>
+		<SimpleData name="Land Type">Private land</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.4917733,25.012465,0 79.4918912,25.0122966,0 79.4919974,25.0123117,0 79.4921094,25.0123158,0 79.4922152,25.0123023,0 79.4923448,25.0122784,0 79.4924011,25.0122673,0 79.4924657,25.0122676,0 79.4925605,25.0122653,0 79.4926527,25.0122738,0 79.4928159,25.0122548,0 79.4928234,25.0122039,0 79.4928122,25.012111,0 79.4927687,25.0120871,0 79.4927076,25.0120685,0 79.4925802,25.012068,0 79.4924897,25.0120543,0 79.4923932,25.012058,0 79.4922576,25.0120437,0 79.4921054,25.0120501,0 79.491964,25.0120394,0 79.4918455,25.0120479,0 79.4917522,25.0120412,0 79.4917204,25.0121158,0 79.4917294,25.0122071,0 79.491727,25.0123002,0 79.4917733,25.012465,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
