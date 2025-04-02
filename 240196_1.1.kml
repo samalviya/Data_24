@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">7.764740803420452</SimpleData>
+		<SimpleData name="site_id">240196_1.1</SimpleData>
+		<SimpleData name="Land_parc">240196</SimpleData>
+		<SimpleData name="district">Chhatarpur</SimpleData>
+		<SimpleData name="block">Chhatarpur</SimpleData>
+		<SimpleData name="village">Chapar</SimpleData>
+		<SimpleData name="Land Type">Community land</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.5856406,24.7510733,0 79.5857413,24.7506543,0 79.5857361,24.7501483,0 79.5856667,24.7494683,0 79.5853716,24.7486445,0 79.5847623,24.7486462,0 79.5836783,24.7485967,0 79.5830887,24.7485397,0 79.582465,24.7491617,0 79.5836803,24.7496704,0 79.5839767,24.75045,0 79.5835075,24.7514281,0 79.5860864,24.7520381,0 79.5857039,24.7510803,0 79.5856406,24.7510733,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
