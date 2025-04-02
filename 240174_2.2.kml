@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">2.788647578321397</SimpleData>
+		<SimpleData name="site_id">240174_2.2</SimpleData>
+		<SimpleData name="Land_parc">240174</SimpleData>
+		<SimpleData name="district">Niwari</SimpleData>
+		<SimpleData name="block">Niwari</SimpleData>
+		<SimpleData name="village">Ravali</SimpleData>
+		<SimpleData name="Land Type">Farmer</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.8932272,25.402745,0 78.8934664,25.4027133,0 78.8938993,25.4026466,0 78.8944456468913,25.4023923116286,0 78.8948372,25.4022877,0 78.8945764,25.4017299,0 78.8943243,25.401768,0 78.8942748,25.4014788,0 78.8940979,25.4010329,0 78.8936227,25.4009537,0 78.8933003,25.4008527,0 78.8932761,25.4008698,0 78.8932409,25.4009414,0 78.8932188,25.4010208,0 78.8932029,25.4010792,0 78.8931867,25.401129,0 78.8931699,25.4011708,0 78.8931549,25.4011959,0 78.893102,25.4012668,0 78.8930707,25.4013291,0 78.893045,25.4013851,0 78.8930196,25.4014765,0 78.892995,25.401539,0 78.8929803,25.4015854,0 78.8929713,25.4016767,0 78.8929542,25.4017392,0 78.89295,25.4018004,0 78.8929366,25.4018742,0 78.8929042,25.4019819,0 78.8928798,25.4020645,0 78.8928697,25.4021201,0 78.8928428,25.4022244,0 78.8928026,25.4023391,0 78.8927688,25.4024104,0 78.8926949,25.4026765,0 78.8928313,25.402686,0 78.89298,25.4026892,0 78.8932272,25.402745,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
