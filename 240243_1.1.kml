@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">1.755460899257846</SimpleData>
+		<SimpleData name="site_id">240243_1.1</SimpleData>
+		<SimpleData name="Land_parc">240243</SimpleData>
+		<SimpleData name="district">Chhatarpur</SimpleData>
+		<SimpleData name="block">Nowgong</SimpleData>
+		<SimpleData name="village">Dhamchi</SimpleData>
+		<SimpleData name="Land Type">Farmer</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.5266284,25.0036902,0 79.5263741,25.0037289,0 79.5262147448297,25.0037630851286,0 79.5258881335525,25.0037925336863,0 79.5255464,25.0038356,0 79.5253384,25.0038598,0 79.5254058,25.0039875,0 79.5255022,25.0043291,0 79.5256118,25.004653,0 79.5256995,25.0049667,0 79.5258747478444,25.0053974800855,0 79.5260568,25.0054145,0 79.5261981,25.005481,0 79.526416,25.0053801,0 79.5265495,25.0053636,0 79.5265376,25.0050983,0 79.5265121,25.0046949,0 79.5265571,25.0045229,0 79.5265774975187,25.0040816649809,0 79.5266284,25.0036902,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
