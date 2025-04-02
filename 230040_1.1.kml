@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave23_v27MAR2025">
+		<SimpleData name="area(ha)">0.364917534236198</SimpleData>
+		<SimpleData name="site_id">230040_1.1</SimpleData>
+		<SimpleData name="Land_parc">230040</SimpleData>
+		<SimpleData name="district">Chhatarpur</SimpleData>
+		<SimpleData name="block">Bijawar</SimpleData>
+		<SimpleData name="village">Patna</SimpleData>
+		<SimpleData name="Land Type">Farmer</SimpleData>
+		<SimpleData name="Instance">Wave 2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.7864118985349,24.4090306790255,0 79.7863347403275,24.4088339462967,0 79.7862992114005,24.4087433568583,0 79.786298036184,24.4087433474365,0 79.7862980640637,24.4087404314484,0 79.7862504256404,24.4086189657632,0 79.7861839368015,24.4084182983083,0 79.7860471597615,24.4084598157389,0 79.7859058815763,24.4085014381795,0 79.7858533922881,24.4085169021838,0 79.7857080460654,24.4085643494779,0 79.7856361993698,24.4085878032815,0 79.7857543,24.4088061,0 79.7859031821276,24.409101399691,0 79.7859174,24.4091296,0 79.785998703428,24.4091073981701,0 79.7859987534648,24.4091021661265,0 79.7860173180507,24.4091023149985,0 79.7860452600804,24.4090946847482,0 79.7861388,24.4090609,0 79.7862615,24.4090356,0 79.7864118985349,24.4090306790255,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
