@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave24_v28MAR2025">
+		<SimpleData name="area(ha)">2.915017611275986</SimpleData>
+		<SimpleData name="site_id">240221_1.1</SimpleData>
+		<SimpleData name="Land_parc">240221</SimpleData>
+		<SimpleData name="district">Damoh</SimpleData>
+		<SimpleData name="block">Tendukheda</SimpleData>
+		<SimpleData name="village">Devri leeladhar</SimpleData>
+		<SimpleData name="Land Type">Farmer</SimpleData>
+		<SimpleData name="Instance">Wave 2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.5022125304991,23.6018450267138,0 79.5016763111527,23.6022608117685,0 79.5015587443441,23.6029776825525,0 79.501768070613,23.603706023269,0 79.5020548189266,23.6035970589098,0 79.5028949914854,23.6034823595844,0 79.503646272067,23.6033963350903,0 79.5030687,23.6024552,0 79.502638,23.6016488,0 79.5022125304991,23.6018450267138,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
