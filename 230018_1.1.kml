@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark xmlns:ns0="http://www.opengis.net/kml/2.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Wave23_v27MAR2025">
+		<SimpleData name="area(ha)">0.109480563173008</SimpleData>
+		<SimpleData name="site_id">230018_1.1</SimpleData>
+		<SimpleData name="Land_parc">230018</SimpleData>
+		<SimpleData name="district">Chhatarpur</SimpleData>
+		<SimpleData name="block">Bijawar</SimpleData>
+		<SimpleData name="village">Matipura</SimpleData>
+		<SimpleData name="Land Type">Farmer</SimpleData>
+		<SimpleData name="Instance">Wave 2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>79.6812084576673,24.4528147880397,0 79.6813973672626,24.4526710166844,0 79.681387550198,24.4524912934422,0 79.6813264662405,24.4525171100563,0 79.6812741085625,24.4525329972008,0 79.681213024605,24.4525320042543,0 79.6811399420129,24.452520088896,0 79.6810679502057,24.4524773921862,0 79.6810138555626,24.4525559186016,0 79.6810137910622,24.4525621135163,0 79.6810096131655,24.4525620770664,0 79.6809921,24.4525875,0 79.68100269899,24.4526523184184,0 79.6810198,24.4527569,0 79.6811932,24.4528264,0 79.6812084576673,24.4528147880397,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  
+    </Document>
+</kml>
